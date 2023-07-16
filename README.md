@@ -29,6 +29,9 @@ Project Insights:
 3. The month of October accounted for the highest profit generated.
 4. California has been observed to record the highest number of sales, followed by New York, with the remaining regions demonstrating varying levels of sales.
 
+Demo:
+https://www.youtube.com/watch?v=Erh02R9sbqw&t=1s
+
 
 
 
